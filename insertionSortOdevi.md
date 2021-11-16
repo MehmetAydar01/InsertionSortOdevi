@@ -1,6 +1,6 @@
 # **1.PROJE :** 
 
-## Insertion Sort 1. Proje Sorusu Çözümleri Aşağıdaki görsellerdedir
+## Insertion Sort 1. Proje Sorusu Çözümleri Aşağıdadır.
 
 ## **Soru 1 -->** 
 
