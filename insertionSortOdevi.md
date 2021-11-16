@@ -26,4 +26,4 @@
                         [2,3,4,5,6,7,8,9,15] 
 
 - 2. Big-O gösterimi : O(n^2)      
-- 3. & 4. Time Complexity : Worst case                  
+- 3. 4. Time Complexity : Worst case                  
